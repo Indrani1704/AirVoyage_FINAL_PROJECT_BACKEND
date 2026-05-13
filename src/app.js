@@ -14,7 +14,7 @@ const carBookingRoutes =
   require("./routes/carBookingRoutes");
 
 const hotelBookingRoutes =
-  require("./routes/hotelBookingRoutes");
+  require("./routes/hotelbookingRoutes");
 
 const path =
   require("path");
